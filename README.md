@@ -1,6 +1,5 @@
 #Deploy Microservice on AWS EC2 
 ————————————————
- <img width="579" alt="image" src="https://github.com/user-attachments/assets/674a01f0-fdf5-4e21-9ac4-a96a9a281bc7">
 ## [ec2-user@ip-172-31-29-187 ~]$ sudo su
 ### [root@ip-172-31-29-187 ec2-user]# yum update -y
 ### [root@ip-172-31-29-187 ec2-user]# yum install httpd -y
